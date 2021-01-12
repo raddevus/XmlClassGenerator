@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("XMLClassElementGenerator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Edict Systems, Inc.")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("XMLClassElementGenerator")]
-[assembly: AssemblyCopyright("Copyright © Edict Systems, Inc. 2013")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
