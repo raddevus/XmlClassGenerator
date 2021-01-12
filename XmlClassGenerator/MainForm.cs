@@ -153,7 +153,7 @@ namespace XMLClassGenerator
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            fileSelectorCtrl.FileTextBox.Text = @"D:\LocalSVN\Web3\HEB\HEB856Editor.xml";
+            fileSelectorCtrl.FileTextBox.Text = @"";
         }
 
     }
